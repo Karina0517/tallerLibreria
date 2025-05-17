@@ -21,7 +21,7 @@ Crear una aplicación de consola en Python que permita administrar un inventario
 - **HU005** – Devolver libros
 - **HU006** – Ver libros prestados
 - **HU007** – Eliminar libros
-- **HU08** – Ver estadísticas
+- **HU008** – Ver estadísticas
 
 ## 🗂 4. Product Backlog
 
