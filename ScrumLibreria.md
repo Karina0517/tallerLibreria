@@ -4,12 +4,12 @@
 
 Crear una aplicación de consola en Python que permita administrar un inventario de libros utilizando estructuras de datos simples (listas y diccionarios), sin depender de bases de datos o librerías externas, facilitando el préstamo y la gestión de libros en una librería local.
 
-## 👥 2. Roles del Equipo Scrum
+## 👥 2. Equipo de Desarrollo
 
 | Rol              | Nombre     | Responsabilidades                                                         |
 |------------------|------------|---------------------------------------------------------------------------|
-| 🧑‍💼 Product Owner | Jerónimo   | Define requisitos, prioriza tareas y valida entregables.                  |
-| 👷 Scrum Master  | Karina     | Facilita las implementaciones, remueve impedimentos, Gestiona el GitHub.  |
+| 🧑‍💼 Scrum Master  | Jerónimo   | Define requisitos, prioriza tareas y valida entregables.                  |
+| 👷 Dev Team      | Karina     | Facilita las implementaciones, remueve impedimentos, Gestiona el GitHub.  |
 | 👨‍💻 Dev Team      | Mariana    | Desarrolla, prueba y divide el trabajo del equipo en la codificación.     |
 
 ## 📌 3. Historias de Usuario
