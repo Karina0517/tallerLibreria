@@ -13,3 +13,5 @@
 #6. Mostrar libros prestados
 
 #7. Eliminar un libro
+
+#8. Eliminar un libro
