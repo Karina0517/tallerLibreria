@@ -6,11 +6,11 @@ Crear una aplicación de consola en Python que permita administrar un inventario
 
 ## 👥 2. Roles del Equipo Scrum
 
-| Rol            | Nombre       | Responsabilidades                                                   |
-|----------------|--------------|----------------------------------------------------------------------|
-| 🧑‍💼 Product Owner | Nombre 1     | Define requisitos, prioriza tareas y valida entregables.            |
-| 👷 Scrum Master  | Nombre 2     | Facilita las reuniones Scrum, remueve impedimentos.                 |
-| 👨‍💻 Dev Team     | Nombre 3, 4  | Desarrollan, prueban y documentan el sistema.                       |
+| Rol              | Nombre     | Responsabilidades                                                         |
+|------------------|------------|---------------------------------------------------------------------------|
+| 🧑‍💼 Product Owner | Jerónimo   | Define requisitos, prioriza tareas y valida entregables.                  |
+| 👷 Scrum Master  | Karina     | Facilita las implementaciones, remueve impedimentos, Gestiona el GitHub.  |
+| 👨‍💻 Dev Team      | Mariana    | Desarrolla, prueba y divide el trabajo del equipo en la codificación.     |
 
 ## 📌 3. Historias de Usuario
 
@@ -21,8 +21,7 @@ Crear una aplicación de consola en Python que permita administrar un inventario
 - **HU005** – Devolver libros
 - **HU006** – Ver libros prestados
 - **HU007** – Eliminar libros
-- **HU008** – Exportar inventario
-- **HU009** – Ver estadísticas
+- **HU08** – Ver estadísticas
 
 ## 🗂 4. Product Backlog
 
@@ -35,20 +34,20 @@ Crear una aplicación de consola en Python que permita administrar un inventario
 | HU005 | Devolver libro      | Alta      | ✅     |
 | HU006 | Ver prestados       | Media     | ✅     |
 | HU007 | Eliminar libro      | Baja      | ✅     |
-| HU008 | Exportar CSV        | Bonus     | ✅     |
+| HU008 | Registro del sistema| Bonus     | ✅     |
 | HU009 | Ver estadísticas    | Bonus     | ✅     |
 
 ## 🗓️ 5. Sprint Planning
 
 ### Sprint de 5 días:
 
-| Día | Tareas                                |
+| Día | Tareas                                 |
 |-----|----------------------------------------|
-| 1   | Crear entorno, menú, registrar libro  |
-| 2   | Listar y buscar libros                |
-| 3   | Préstamo y validaciones              |
-| 4   | Devolución y mostrar prestados       |
-| 5   | Exportar CSV, estadísticas           |
+| 1   | Crear entorno, menú, registrar libro   |
+| 2   | Listar y buscar libros                 |
+| 3   | Préstamo y validaciones                |
+| 4   | Devolución y mostrar prestados         |
+| 5   | Registro general, estadísticas         |
 
 ## ✅ 6. Definición de Terminado (Definition of Done)
 
@@ -56,9 +55,9 @@ Crear una aplicación de consola en Python que permita administrar un inventario
 - Validación de entradas y sin errores.
 - Persistencia de datos funcional.
 - Todas las historias implementadas.
-- Documentación y empaquetado en `.zip`.
+- Corroboración del entregable final.
 
-## 🔄 7. Daily Scrum (Ejemplo)
+## 🔄 7. Daily Scrum (Friday)
 
 - **¿Qué hicimos ayer?** Registrar y listar libros.
 - **¿Qué haremos hoy?** Búsqueda y préstamo.
@@ -75,11 +74,10 @@ Crear una aplicación de consola en Python que permita administrar un inventario
 - Buena organización y trabajo en equipo.
 
 **⚠️ A mejorar:**
-- Mejorar documentación de versiones y seguimiento de cambios.
+- La correcta implementación del uso de GitHub.
 
 ## 📦 10. Entregables
 
 - Código fuente en `.zip`
 - `README.md`
-- Documentación Scrum en PDF
-- Capturas o video demostrativo (opcional)
+- Presentación final del Proyecto
