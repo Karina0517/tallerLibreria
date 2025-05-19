@@ -67,7 +67,7 @@ python main.py
 
 ---
 
-## 🛠 Validaciones Inteligentes
+## 🔨 Validaciones Inteligentes
 
 Las entradas del usuario se validan para asegurar que:
 - No estén vacías.
