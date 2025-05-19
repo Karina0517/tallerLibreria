@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Las Aventuras",
+        "author": "karina henao",
+        "year": 2000,
+        "category": "Educativo",
+        "status": "Disponible"
+    },
+    {
+        "id": 2,
+        "title": "Riwi",
+        "author": "karina henao",
+        "year": 2020,
+        "category": "Ficción",
+        "status": "Disponible"
+    },
+    {
+        "id": 3,
+        "title": "Amiguitos",
+        "author": "Karina Henao",
+        "year": 2020,
+        "category": "Infantil",
+        "status": "Disponible"
+    }
+]

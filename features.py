@@ -15,7 +15,7 @@ def register_book():
         print("El título no puede estar vacío.")
 
     # For authors name with alphabetical validation
-    author = prompt_until_valid("Autor: ", validate_alpha, "Autor inválido (solo letras y espacios).")
+    author = prompt_until_valid("Autor: ", validate_alpha, "Autor inválido (solo letras y espacios).").title()
 
     # For publication year and validate it's within allowed range
     while True:
