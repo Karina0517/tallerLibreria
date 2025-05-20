@@ -132,6 +132,6 @@ Ingrese la categoría: Fantasía
 
 ## 👨‍💻 Autores
 
-Desarrollado por Jerónimo, Mariana y Karina, como parte de un taller de programación en Python orientado a objetos y manipulación de archivos, hecho con ❤️ para<a href="https://riwi.io/" target="_blank">Riwi</a></b>.
+Desarrollado por Jerónimo, Mariana y Karina, como parte de un taller de programación en Python orientado a objetos y manipulación de archivos, hecho con ❤️ para <a href="https://riwi.io/" target="_blank">Riwi</a></b>.
 
 ---
