@@ -57,9 +57,9 @@ def register_book():
 # Lists all books with optional filtering by availability status
 def list_books():
     print("\n🔍 Filtrar por estado:")
-    print("1. Todos")
-    print("2. Disponible")
-    print("3. Prestado")
+    print("1️⃣ Todos")
+    print("2️⃣ Disponible")
+    print("3️⃣ Prestado")
     while True:
         option = input("🔢 Seleccione una opción: ").strip()
         if option in ["1", "2", "3"]:
