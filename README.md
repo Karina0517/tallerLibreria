@@ -66,7 +66,7 @@ python main.py
 
 ---
 
-## 🛠 Validaciones Inteligentes
+## 🔨 Validaciones Inteligentes
 
 Las entradas del usuario se validan para asegurar que:
 - No estén vacías.
@@ -132,10 +132,6 @@ Ingrese la categoría: Fantasía
 
 ## 👨‍💻 Autores
 
-Desarrollado por Jerónimo, Mariana y Karina, como parte de un taller de programación en Python orientado a objetos y manipulación de archivos.
+Desarrollado por Jerónimo, Mariana y Karina, como parte de un taller de programación en Python orientado a objetos y manipulación de archivos, hecho con ❤️ para <a href="https://riwi.io/" target="_blank">Riwi</a></b>.
 
 ---
-
-## 📝 Licencia
-
-Este proyecto es de libre uso con fines educativos.
